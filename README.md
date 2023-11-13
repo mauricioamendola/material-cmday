@@ -22,3 +22,7 @@ Este repositorio es para alojar las referencias y material de las herramientas m
   * Well-Architected Framework - https://aws.amazon.com/well-architected-tool/
   * AWS Controllers for K8S - https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/
 
+
+## DEMO: KEDA + Karpenter
+
+![KEDA](media/keda-demo.gif)
